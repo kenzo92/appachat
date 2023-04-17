@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/appachat/static/css/main.04b22e2b.css",
+    "main.js": "/appachat/static/js/main.5c0c7ed0.js",
+    "static/media/Passport.jpg": "/appachat/static/media/Passport.b29cfa9971e71f10c914.jpg",
+    "index.html": "/appachat/index.html",
+    "main.04b22e2b.css.map": "/appachat/static/css/main.04b22e2b.css.map",
+    "main.5c0c7ed0.js.map": "/appachat/static/js/main.5c0c7ed0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04b22e2b.css",
+    "static/js/main.5c0c7ed0.js"
+  ]
+}
